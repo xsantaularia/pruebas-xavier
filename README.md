@@ -1,3 +1,4 @@
 > Xavier Santaularia
-> data 10/10/2025
+> 28 Octubre 2025
 > IES Insmollerussa
+Canvis locals de prova
