@@ -1,3 +1,4 @@
+# Projecte de proves amb Git
 > Xavier Santaularia
-> data 10/10/2025
+> 27 octubre 2025
 > IES Insmollerussa
